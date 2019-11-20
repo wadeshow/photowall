@@ -1,9 +1,9 @@
 Screenshots
 <img src="screenshot\add-post-page.png">
 <img src="screenshot\comment-page.png">
-<img src="screenshot\landing-page.png">
+<img src="screenshot\landing-page.jpg">
 
-# Photowall Practice in React using firebase
+# Photowall Practice in React with Firebase as storage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
